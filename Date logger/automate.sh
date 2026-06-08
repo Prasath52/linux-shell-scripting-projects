@@ -1,2 +1,4 @@
 #!/bin/bash
-date >> /home/dmin/jobsearching/date.log
+date >> date.log
+echo "script executed Successfully"
+
