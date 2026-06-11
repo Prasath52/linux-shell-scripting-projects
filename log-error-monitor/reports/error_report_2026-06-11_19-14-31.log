@@ -1,0 +1,74 @@
+2026-06-06T19:06:46.417088+05:30 DESKTOP-KPPGL7T kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2026-06-06T23:00:38.215349+05:30 DESKTOP-KPPGL7T kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2026-06-06T23:32:21.724175+05:30 DESKTOP-KPPGL7T kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2026-06-07T19:12:06.222514+05:30 DESKTOP-KPPGL7T kernel: Failed to register legacy timer interrupt
+2026-06-07T19:12:06.222538+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-06-07T19:12:06.222546+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-06-07T19:12:06.222900+05:30 DESKTOP-KPPGL7T kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+2026-06-07T19:12:06.223655+05:30 DESKTOP-KPPGL7T kernel: RAS: Correctable Errors collector initialized.
+2026-06-07T19:12:06.223919+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2026-06-07T19:12:06.223921+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2026-06-07T19:12:06.223927+05:30 DESKTOP-KPPGL7T kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2026-06-07T19:12:06.223929+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2026-06-07T19:12:06.223946+05:30 DESKTOP-KPPGL7T kernel: Failed to connect to bus: No such file or directory
+2026-06-07T19:12:10.437122+05:30 DESKTOP-KPPGL7T kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2026-06-07T23:42:34.311515+05:30 DESKTOP-KPPGL7T kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
+2026-06-08T18:46:46.085702+05:30 DESKTOP-KPPGL7T kernel: Failed to register legacy timer interrupt
+2026-06-08T18:46:46.085947+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-06-08T18:46:46.085978+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-06-08T18:46:46.087303+05:30 DESKTOP-KPPGL7T kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+2026-06-08T18:46:46.088750+05:30 DESKTOP-KPPGL7T kernel: RAS: Correctable Errors collector initialized.
+2026-06-08T18:46:46.089227+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2026-06-08T18:46:46.089230+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2026-06-08T18:46:46.089240+05:30 DESKTOP-KPPGL7T kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2026-06-08T18:46:46.089246+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2026-06-08T18:46:46.089257+05:30 DESKTOP-KPPGL7T kernel: Failed to connect to bus: No such file or directory
+2026-06-08T18:46:46.089281+05:30 DESKTOP-KPPGL7T kernel: WSL (220) ERROR: CheckConnection: getaddrinfo() failed: -3
+2026-06-08T18:46:46.089284+05:30 DESKTOP-KPPGL7T kernel: WSL (2 - init-systemd(Ubuntu)) ERROR: WaitForBootProcess:3423: /sbin/init failed to start within 10000ms
+2026-06-08T18:46:50.363752+05:30 DESKTOP-KPPGL7T kernel: WSL (220) ERROR: CheckConnection: getaddrinfo() failed: -3
+2026-06-08T18:46:50.363813+05:30 DESKTOP-KPPGL7T kernel: WSL (2 - Interop) ERROR: CreateLoginSession:2766: Timed out waiting for user session for uid=1000
+2026-06-08T18:48:17.172476+05:30 DESKTOP-KPPGL7T snapd[320]: stateengine.go:161: state ensure error: Post "https://api.snapcraft.io/v2/snaps/refresh": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
+2026-06-08T18:56:38.791901+05:30 DESKTOP-KPPGL7T kernel: WSL (220) ERROR: CheckConnection: getaddrinfo() failed: -5
+2026-06-09T19:09:41.005217+05:30 DESKTOP-KPPGL7T kernel: Failed to register legacy timer interrupt
+2026-06-09T19:09:41.005717+05:30 DESKTOP-KPPGL7T kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+2026-06-09T19:09:41.006291+05:30 DESKTOP-KPPGL7T kernel: RAS: Correctable Errors collector initialized.
+2026-06-09T19:09:41.006472+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2026-06-09T19:09:41.006474+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2026-06-09T19:09:41.006479+05:30 DESKTOP-KPPGL7T kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2026-06-09T19:09:41.006483+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2026-06-09T19:09:41.006491+05:30 DESKTOP-KPPGL7T kernel: Failed to connect to bus: No such file or directory
+2026-06-09T19:09:41.006502+05:30 DESKTOP-KPPGL7T kernel: Failed to connect to bus: No such file or directory
+2026-06-09T19:09:41.006705+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-06-09T19:09:41.006714+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-06-09T19:09:49.087103+05:30 DESKTOP-KPPGL7T kernel: WSL (219) ERROR: CheckConnection: getaddrinfo() failed: -3
+2026-06-09T19:10:01.300250+05:30 DESKTOP-KPPGL7T kernel: WSL (219) ERROR: CheckConnection: getaddrinfo() failed: -3
+2026-06-09T19:10:24.224467+05:30 DESKTOP-KPPGL7T kernel: WSL (219) ERROR: CheckConnection: getaddrinfo() failed: -5
+2026-06-09T23:38:11.878132+05:30 DESKTOP-KPPGL7T kernel: WSL (219) ERROR: CheckConnection: getaddrinfo() failed: -5
+2026-06-10T19:23:39.282517+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-06-10T19:23:39.282533+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-06-10T19:23:39.283318+05:30 DESKTOP-KPPGL7T kernel: Failed to register legacy timer interrupt
+2026-06-10T19:23:39.283648+05:30 DESKTOP-KPPGL7T kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+2026-06-10T19:23:39.284257+05:30 DESKTOP-KPPGL7T kernel: RAS: Correctable Errors collector initialized.
+2026-06-10T19:23:39.284494+05:30 DESKTOP-KPPGL7T kernel: Failed to connect to bus: No such file or directory
+2026-06-10T19:23:39.284495+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2026-06-10T19:23:39.284497+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2026-06-10T19:23:39.284509+05:30 DESKTOP-KPPGL7T kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2026-06-10T19:23:39.284512+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2026-06-10T19:23:44.503113+05:30 DESKTOP-KPPGL7T kernel: WSL (222) ERROR: CheckConnection: getaddrinfo() failed: -5
+2026-06-10T21:40:05.828414+05:30 DESKTOP-KPPGL7T kernel: WSL (222) ERROR: CheckConnection: getaddrinfo() failed: -5
+2026-06-10T22:00:01.692170+05:30 DESKTOP-KPPGL7T CRON[2452]: (dmin) CMD (/mnt/d/Linux-shell-scripting-project/log-error-monitor/reports)
+2026-06-10T23:00:01.173158+05:30 DESKTOP-KPPGL7T CRON[2898]: (dmin) CMD (/mnt/d/Linux-shell-scripting-project/log-error-monitor/reports)
+2026-06-10T23:04:42.422097+05:30 DESKTOP-KPPGL7T kernel: WSL (222) ERROR: CheckConnection: getaddrinfo() failed: -5
+2026-06-11T19:09:19.028335+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-06-11T19:09:19.028348+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-06-11T19:09:19.031100+05:30 DESKTOP-KPPGL7T kernel: Failed to register legacy timer interrupt
+2026-06-11T19:09:19.031436+05:30 DESKTOP-KPPGL7T kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+2026-06-11T19:09:19.032350+05:30 DESKTOP-KPPGL7T kernel: RAS: Correctable Errors collector initialized.
+2026-06-11T19:09:19.032523+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2026-06-11T19:09:19.032524+05:30 DESKTOP-KPPGL7T kernel: Failed to connect to bus: No such file or directory
+2026-06-11T19:09:19.032526+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2026-06-11T19:09:19.032531+05:30 DESKTOP-KPPGL7T kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2026-06-11T19:09:19.032534+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2026-06-11T19:09:19.032639+05:30 DESKTOP-KPPGL7T kernel: Failed to connect to bus: No such file or directory
+2026-06-11T19:09:19.032782+05:30 DESKTOP-KPPGL7T kernel: WSL (219) ERROR: CheckConnection: getaddrinfo() failed: -5
+2026-06-11T19:09:22.644392+05:30 DESKTOP-KPPGL7T kernel: WSL (2 - init-systemd(Ubuntu)) ERROR: WaitForBootProcess:3423: /sbin/init failed to start within 10000ms
