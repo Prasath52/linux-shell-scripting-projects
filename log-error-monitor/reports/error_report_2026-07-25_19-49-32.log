@@ -1,0 +1,60 @@
+2026-06-27T19:53:52.783691+05:30 DESKTOP-KPPGL7T kernel: WSL (214) ERROR: CheckConnection: getaddrinfo() failed: -3
+2026-06-27T19:54:22.832126+05:30 DESKTOP-KPPGL7T snapd[204]: stateengine.go:161: state ensure error: Get "https://api.snapcraft.io/api/v1/snaps/sections": dial tcp: lookup api.snapcraft.io on 10.255.255.254:53: read udp 10.255.255.254:56442->10.255.255.254:53: i/o timeout
+2026-06-27T19:54:23.231411+05:30 DESKTOP-KPPGL7T kernel: WSL (214) ERROR: CheckConnection: getaddrinfo() failed: -3
+2026-06-27T19:54:56.323636+05:30 DESKTOP-KPPGL7T snapd[204]: stateengine.go:161: state ensure error: Post "https://api.snapcraft.io/v2/snaps/refresh": dial tcp: lookup api.snapcraft.io on 10.255.255.254:53: read udp 10.255.255.254:34485->10.255.255.254:53: i/o timeout
+2026-07-01T10:30:42.650269+05:30 DESKTOP-KPPGL7T kernel: Failed to register legacy timer interrupt
+2026-07-01T10:30:42.650557+05:30 DESKTOP-KPPGL7T kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+2026-07-01T10:30:42.650820+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-07-01T10:30:42.650826+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-07-01T10:30:42.651072+05:30 DESKTOP-KPPGL7T kernel: RAS: Correctable Errors collector initialized.
+2026-07-01T10:30:42.651293+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2026-07-01T10:30:42.651295+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2026-07-01T10:30:42.651299+05:30 DESKTOP-KPPGL7T kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2026-07-01T10:30:42.651301+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2026-07-01T10:30:42.651305+05:30 DESKTOP-KPPGL7T kernel: Failed to connect to bus: No such file or directory
+2026-07-01T10:30:54.804193+05:30 DESKTOP-KPPGL7T kernel: WSL (215) ERROR: CheckConnection: getaddrinfo() failed: -3
+2026-07-01T10:31:16.872774+05:30 DESKTOP-KPPGL7T snapd[211]: stateengine.go:161: state ensure error: Get "https://api.snapcraft.io/api/v1/snaps/sections": dial tcp: lookup api.snapcraft.io on 10.255.255.254:53: read udp 10.255.255.254:53302->10.255.255.254:53: i/o timeout
+2026-07-01T10:31:27.034378+05:30 DESKTOP-KPPGL7T kernel: WSL (215) ERROR: CheckConnection: getaddrinfo() failed: -3
+2026-07-01T10:31:57.404353+05:30 DESKTOP-KPPGL7T snapd[211]: stateengine.go:161: state ensure error: Post "https://api.snapcraft.io/v2/snaps/refresh": context deadline exceeded
+2026-07-01T11:00:01.919290+05:30 DESKTOP-KPPGL7T CRON[829]: (dmin) CMD (/mnt/d/Linux-shell-scripting-project/log-error-monitor/reports)
+2026-07-01T12:00:01.185991+05:30 DESKTOP-KPPGL7T CRON[926]: (dmin) CMD (/mnt/d/Linux-shell-scripting-project/log-error-monitor/reports)
+2026-07-01T12:24:53.871140+05:30 DESKTOP-KPPGL7T kernel: WSL (215) ERROR: CheckConnection: connect() failed: 101
+2026-07-01T15:15:52.187709+05:30 DESKTOP-KPPGL7T kernel: WSL (215) ERROR: CheckConnection: connect() failed: 101
+2026-07-08T21:12:14.009878+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-07-08T21:12:14.009885+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-07-08T21:12:14.010202+05:30 DESKTOP-KPPGL7T kernel: Failed to register legacy timer interrupt
+2026-07-08T21:12:14.010644+05:30 DESKTOP-KPPGL7T kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+2026-07-08T21:12:14.011085+05:30 DESKTOP-KPPGL7T kernel: RAS: Correctable Errors collector initialized.
+2026-07-08T21:12:14.011199+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2026-07-08T21:12:14.011199+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2026-07-08T21:12:14.011203+05:30 DESKTOP-KPPGL7T kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2026-07-08T21:12:14.011204+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2026-07-08T21:12:14.011220+05:30 DESKTOP-KPPGL7T kernel: Failed to connect to bus: No such file or directory
+2026-07-08T21:12:25.887050+05:30 DESKTOP-KPPGL7T kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2026-07-08T21:12:58.115144+05:30 DESKTOP-KPPGL7T snapd[212]: stateengine.go:161: state ensure error: Get "https://api.snapcraft.io/api/v1/snaps/sections": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
+2026-07-08T21:12:58.162739+05:30 DESKTOP-KPPGL7T kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -3
+2026-07-08T21:13:34.145226+05:30 DESKTOP-KPPGL7T snapd[212]: stateengine.go:161: state ensure error: Post "https://api.snapcraft.io/v2/snaps/refresh": dial tcp: lookup api.snapcraft.io on 10.255.255.254:53: read udp 10.255.255.254:54362->10.255.255.254:53: i/o timeout
+2026-07-25T19:28:12.423872+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-07-25T19:28:12.423878+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-07-25T19:28:12.468439+05:30 DESKTOP-KPPGL7T kernel: Failed to register legacy timer interrupt
+2026-07-25T19:28:12.469407+05:30 DESKTOP-KPPGL7T kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+2026-07-25T19:28:12.470026+05:30 DESKTOP-KPPGL7T kernel: RAS: Correctable Errors collector initialized.
+2026-07-25T19:28:12.470422+05:30 DESKTOP-KPPGL7T kernel: Failed to connect to bus: No such file or directory
+2026-07-25T19:28:12.470424+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2026-07-25T19:28:12.470425+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2026-07-25T19:28:12.470431+05:30 DESKTOP-KPPGL7T kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2026-07-25T19:28:12.470434+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2026-07-25T19:28:12.470441+05:30 DESKTOP-KPPGL7T kernel: Failed to connect to bus: No such file or directory
+2026-07-25T19:28:12.470450+05:30 DESKTOP-KPPGL7T kernel: WSL (220) ERROR: CheckConnection: getaddrinfo() failed: -5
+2026-07-25T19:28:14.458907+05:30 DESKTOP-KPPGL7T kernel: WSL (2 - init-systemd(Ubuntu)) ERROR: WaitForBootProcess:3423: /sbin/init failed to start within 10000ms
+2026-07-25T19:49:01.225635+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-07-25T19:49:01.225638+05:30 DESKTOP-KPPGL7T systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport).
+2026-07-25T19:49:01.225736+05:30 DESKTOP-KPPGL7T kernel: Failed to register legacy timer interrupt
+2026-07-25T19:49:01.226065+05:30 DESKTOP-KPPGL7T kernel: ACPI: _OSC evaluation for CPUs failed, trying _PDC
+2026-07-25T19:49:01.226300+05:30 DESKTOP-KPPGL7T kernel: RAS: Correctable Errors collector initialized.
+2026-07-25T19:49:01.226363+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_is_feature_enabled: Ioctl failed: -22
+2026-07-25T19:49:01.226364+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22
+2026-07-25T19:49:01.226366+05:30 DESKTOP-KPPGL7T kernel: message repeated 2 times: [ misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -22]
+2026-07-25T19:49:01.226367+05:30 DESKTOP-KPPGL7T kernel: misc dxg: dxgk: dxgkio_query_adapter_info: Ioctl failed: -2
+2026-07-25T19:49:01.226370+05:30 DESKTOP-KPPGL7T kernel: Failed to connect to bus: No such file or directory
+2026-07-25T19:49:03.909181+05:30 DESKTOP-KPPGL7T kernel: WSL (218) ERROR: CheckConnection: getaddrinfo() failed: -5
