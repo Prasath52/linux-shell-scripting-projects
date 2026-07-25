@@ -1,0 +1,24 @@
+===== Log Analysis at 2026-07-25 22:24:18 =====
+Analyzing log file: /var/log
+INFO: 0
+WARN: 0
+ERROR: 0
+DEBUG: 0
+FATAL: 0
+
+===== Log Analysis at 2026-07-25 22:24:35 =====
+Analyzing log file: /var/syslog
+INFO: 
+WARN: 
+ERROR: 
+DEBUG: 
+FATAL: 
+
+===== Log Analysis at 2026-07-25 22:25:16 =====
+Analyzing log file: /var/log/syslog
+INFO: 491
+WARN: 245
+ERROR: 13
+DEBUG: 493
+FATAL: 0
+
